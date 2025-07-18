@@ -128,7 +128,7 @@ export const DATA = {
   // Education
   education: [
     {
-      school: "Sigma Institute of Technology & Engineering",
+      school: "Sigma University",
       href: "https://sigmauniversity.ac.in/",
       degree: "Diploma in Computer Science, CGPA - 8.19",
       logoUrl: "/Sigma-university.png",
